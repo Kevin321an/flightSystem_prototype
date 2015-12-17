@@ -10,11 +10,16 @@ namespace Assignment4
     /// </summary>
     class FlightTicket : AirLinePrice
     {
-        // Constructor
+        /// <summary>
+        /// inherent the constructor from  AirLinePrice class
+        /// </summary>
+        /// <param name="flight"></param>
+        /// <param name="price"></param>
         public FlightTicket(string flight, double price)
           : base(flight, price)
         {
         }
+
         private Flight flight;
 
         public Flight Flight
@@ -50,17 +55,26 @@ namespace Assignment4
             get { return cost; }
             set { cost = value; }
         }
-
+        /// <summary>
+        /// view flight history
+        /// </summary>
+        /// <param name="flight"></param>
         public void ViewFlightHistory(Flight flight)
         {
             
         }
-
+        /// <summary>
+        /// view schedule of the flight
+        /// </summary>
+        /// <param name="flight"></param>
         public void ViewSchedule(Flight flight)
         {
             
         }
-
+        /// <summary>
+        /// search flight
+        /// </summary>
+        /// <returns></returns>
         public FlightTicket Search()
         {
             return this;

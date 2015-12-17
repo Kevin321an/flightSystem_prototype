@@ -16,8 +16,9 @@ namespace Assignment4
             /// <param name="args">input string arry to the programe</param>
             static void Main(string[] args)
         {
-                // Create Flight flight and attach it to different customer groups         
 
+                // Create Flight flight and attach it to different customer groups        
+                ///test the observer pattern:
                 FlightTicket discount = new FlightTicket("AC032", 120.00);
                 discount.Attach(new RegisteredUser("CommonUser"));
                 discount.Attach(new SilverUser("SilverUser"));
@@ -27,7 +28,6 @@ namespace Assignment4
                 discount.Price = 3000.00;
                 discount.Price = 40000.50;
                 discount.Price = 60000.75;
-
                 // Wait for input to end the programe
                 Console.ReadKey();
             }

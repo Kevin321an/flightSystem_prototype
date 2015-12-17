@@ -10,7 +10,7 @@ namespace Assignment4
     /// </summary>   
     public class Account
     {
-        
+        //save user password
         private string password;       
 
         public string Password
@@ -19,7 +19,7 @@ namespace Assignment4
             set { password = value; }
         }
         private string email;
-
+        //save email
         public string Email
         {
             get { return email; }

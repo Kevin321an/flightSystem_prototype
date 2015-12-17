@@ -5,6 +5,9 @@ using System.Text;
 
 namespace Assignment4
 {
+    /// <summary>
+    /// the class define the brand of airline 
+    /// </summary>
     public class Brand
     {
         private int id;
@@ -22,7 +25,9 @@ namespace Assignment4
             set { name = value; }
         }
         private string description;
-
+        /// <summary>
+        /// description
+        /// </summary>
         public string Description
         {
             get { return description; }
@@ -33,17 +38,26 @@ namespace Assignment4
         {
            
         }
-
+        /// <summary>
+        /// delete the brand
+        /// </summary>
+        /// <param name="brand"></param>
         public void Delete(Brand brand)
         {
             
         }
-
+        /// <summary>
+        /// update the brand
+        /// </summary>
+        /// <param name="brand"></param>
         public void Update(Brand brand)
         {
             
         }
-
+        /// <summary>
+        /// view the brand
+        /// </summary>
+        /// <returns></returns>
         public Brand View()
         {
             return this;
