@@ -5,9 +5,13 @@ using System.Text;
 
 namespace Assignment4
 {
+    /// <summary>
+    /// The user account class
+    /// </summary>   
     public class Account
     {
-        private string password;
+        
+        private string password;       
 
         public string Password
         {
@@ -40,17 +44,26 @@ namespace Assignment4
         {
             
         }
-
+        /// <summary>
+        ///  View
+        /// </summary>
+        /// <returns></returns>
         public Account ViewAccount()
         {
             return this;
         }
-
+        /// <summary>
+        /// delete
+        /// </summary>
+        /// <param name="account"></param>
         public void DeleteAccount(Account account)
         {
             
         }
-
+        /// <summary>
+        /// update
+        /// </summary>
+        /// <param name="account"></param>
         public void UpdateAccount(Account account)
         {
            

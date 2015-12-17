@@ -45,6 +45,12 @@
     <Compile Include="Aircraft.cs" />
     <Compile Include="Airport.cs" />
     <Compile Include="Brand.cs" />
+    <Compile Include="AirLinePrice.cs" />
+    <Compile Include="GoldenUser.cs" />
+    <Compile Include="SilverUser.cs" />
+    <Compile Include="RegisteredUser.cs" />
+    <Compile Include="SpecialFlightObserverAbstract.cs" />
+    <Compile Include="SpecialFlightObserver.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="Flight.cs" />
     <Compile Include="FlightTicket.cs" />

@@ -1,3 +1,9 @@
 D:\Conestoga\Ady Paulino\INFO 8230 - System Development\Assignments\4\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-F:\Desktop\Assignment4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-F:\Desktop\assg4SourceCode\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Desktop\Assignment4\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Desktop\Assignment4\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Desktop\Assignment4\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Desktop\Assignment4\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Desktop\Assignment4\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Desktop\assg4SourceCode\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Desktop\assg4SourceCode\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Desktop\assg4SourceCode\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

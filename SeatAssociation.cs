@@ -16,7 +16,7 @@ namespace Assignment4
         }
         private FlightTicket flight;
 
-        public FlightTicket Flight
+        private FlightTicket Flight
         {
             get { return flight; }
             set { flight = value; }

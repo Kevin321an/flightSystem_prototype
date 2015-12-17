@@ -5,8 +5,16 @@ using System.Text;
 
 namespace Assignment4
 {
-    public class FlightTicket
+    /// <summary>
+    /// The 'ConcreteAirLinePrice' class that implement the AirLinePrice
+    /// </summary>
+    class FlightTicket : AirLinePrice
     {
+        // Constructor
+        public FlightTicket(string flight, double price)
+          : base(flight, price)
+        {
+        }
         private Flight flight;
 
         public Flight Flight

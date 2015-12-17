@@ -5,8 +5,12 @@ using System.Text;
 
 namespace Assignment4
 {
+    /// <summary>
+    /// The Aircraftclass
+    /// </summary>   
     public class Aircraft
     {
+
         private int id;
 
         public int ID
