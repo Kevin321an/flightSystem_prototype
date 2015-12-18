@@ -71,5 +71,16 @@ namespace Assignment4
         {
             get { return _flight; }
         }
+
+        internal SpecialFlightObserver SpecialFlightObserver
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+            set
+            {
+            }
+        }
     }
 }

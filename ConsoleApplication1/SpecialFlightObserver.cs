@@ -11,6 +11,12 @@ namespace Assignment4
     /// </summary>
     interface SpecialFlightObserver
     {
+        SpecialFlightObserverAbstract SpecialFlightObserverAbstract
+        {
+            get;
+            set;
+        }
+    
         void Update(AirLinePrice flight);
     }
 }

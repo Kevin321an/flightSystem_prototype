@@ -9,7 +9,7 @@ namespace Assignment4
     // <summary>
     /// The 'RegisteredUser' class
     /// </summary>
-    class RegisteredUser : SpecialFlightObserverAbstract, SpecialFlightObserver
+    class RegisteredUser : SpecialFlightObserverAbstract, Account, SpecialFlightObserver
     {
         // define the name of this costomer group 
         public RegisteredUser(string name)

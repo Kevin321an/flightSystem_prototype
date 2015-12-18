@@ -9,7 +9,7 @@ namespace Assignment4
     /// <summary>
     /// The 'SilverUser' class
     /// </summary>
-    class SilverUser : SpecialFlightObserverAbstract, SpecialFlightObserver
+    class SilverUser : SpecialFlightObserverAbstract,Account, SpecialFlightObserver
     {
 
         // define the name of this costomer group 

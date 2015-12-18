@@ -10,3 +10,4 @@ F:\Desktop\assg4SourceCode\ConsoleApplication1\ConsoleApplication1\obj\Debug\Con
 F:\Desktop\assg4SourceCode\ConsoleApplication1\ConsoleApplication1\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
 F:\Desktop\assg4SourceCode\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 F:\Desktop\assg4SourceCode\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\mzhang3967\Desktop\flightSystem_prototype\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment4
 {
-    class GoldenUser : SpecialFlightObserverAbstract, SpecialFlightObserver
+    class GoldenUser : SpecialFlightObserverAbstract, Account, SpecialFlightObserver
     {
         // define the name of this costomer group 
         public GoldenUser(string name)
