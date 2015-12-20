@@ -6,7 +6,7 @@ using System.Text;
 namespace Assignment4
 {
     /// <summary>
-    /// The Aircraftclass
+    /// The Aircraft class
     /// </summary>   
     public class Aircraft
     {

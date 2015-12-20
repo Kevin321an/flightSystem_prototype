@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Assignment4
 {
+    /// <summary>
+    /// The AirLinePrice class
+    /// </summary> 
     abstract class AirLinePrice
     {
         private string _flight;
@@ -13,7 +16,7 @@ namespace Assignment4
         private List<SpecialFlightObserver> _customerGroups = new List<SpecialFlightObserver>();
 
         /// <summary>
-        /// give it flight number and its price 
+        /// Give it flight number and its price 
         /// </summary>
         /// <param name="flight">flight number</param>
         /// <param name="price">price </param>

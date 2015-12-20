@@ -62,6 +62,7 @@
     <Compile Include="Staff.cs" />
     <Compile Include="Ticket.cs" />
     <Compile Include="TicketType.cs" />
+    <Compile Include="TravelInfoFacade.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -6,7 +6,7 @@ using System.Text;
 namespace Assignment4
 {
     /// <summary>
-    /// The user account class
+    /// The user Account class
     /// </summary>   
     public class Account
     {

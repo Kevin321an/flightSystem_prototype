@@ -5,6 +5,9 @@ using System.Text;
 
 namespace Assignment4
 {
+    /// <summary>
+    /// The TicketType class
+    /// </summary>
     public class TicketType
     {
         private int id;

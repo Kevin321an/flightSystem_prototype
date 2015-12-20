@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Assignment4
 {
     /// <summary>
-    /// define the pattern of user groups class to reduce the redundence
+    /// Define the pattern of user groups class to reduce the redundence
     /// </summary>
     abstract class SpecialFlightObserverAbstract : SpecialFlightObserver
     {

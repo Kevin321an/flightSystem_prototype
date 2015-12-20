@@ -6,7 +6,7 @@ using System.Text;
 namespace Assignment4
 {
     /// <summary>
-    /// the class define the brand of airline 
+    /// The Brand class
     /// </summary>
     public class Brand
     {

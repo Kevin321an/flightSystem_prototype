@@ -5,6 +5,9 @@ using System.Text;
 
 namespace Assignment4
 {
+    /// <summary>
+    /// The SeatAssociation class
+    /// </summary>
     public class SeatAssociation
     {
         private int id;

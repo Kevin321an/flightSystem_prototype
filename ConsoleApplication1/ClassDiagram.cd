@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Assignment4.Aircraft">
-    <Position X="7.75" Y="12.75" Width="1.5" />
+    <Position X="15.25" Y="12.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AA0EAAAIBAAAgAAAAAAAgAAAAAEAAAAAAAgAAAAJAgA=</HashCode>
       <FileName>Aircraft.cs</FileName>
@@ -42,7 +42,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Assignment4.Brand">
-    <Position X="4.75" Y="15.25" Width="1.5" />
+    <Position X="18.25" Y="13.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQCAAAAAAAgAAAAIAAAAAQAAAEFAAAAAAAAAAAAAgA=</HashCode>
       <FileName>Brand.cs</FileName>
@@ -91,21 +91,21 @@
     </ShowAsAssociation>
   </Class>
   <Class Name="Assignment4.TicketType">
-    <Position X="13.25" Y="13" Width="1.5" />
+    <Position X="7.25" Y="14" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAAAgAAAAIAAAAAQAAAAEAAAAAAAAAQAAAgE=</HashCode>
       <FileName>TicketType.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Assignment4.Seat">
-    <Position X="4.75" Y="9.75" Width="1.5" />
+    <Position X="9.75" Y="15.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQCAAAAAAAAQAAAAEIBAAACAQEBAgAAAAAAAAAAAgA=</HashCode>
       <FileName>Seat.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Assignment4.SeatAssociation">
-    <Position X="7.75" Y="9.25" Width="1.5" />
+    <Position X="12.75" Y="13.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>ACACAAAgAAAAAABAAAAAQAAAAAAAAAAAAACAAAAAggA=</HashCode>
       <FileName>SeatAssociation.cs</FileName>
@@ -156,6 +156,19 @@
     </TypeIdentifier>
     <ShowAsAssociation>
       <Property Name="SpecialFlightObserver" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Assignment4.TravelInfoFacade">
+    <Position X="6.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAEAAAAACAEAAygAAAAgAAAAACKAAAgAAgAA=</HashCode>
+      <FileName>TravelInfoFacade.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Flight" />
+      <Property Name="Route" />
+      <Property Name="Seat" />
+      <Property Name="Ticket" />
     </ShowAsAssociation>
   </Class>
   <Interface Name="Assignment4.SpecialFlightObserver">

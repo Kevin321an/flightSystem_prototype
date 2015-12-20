@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 
 namespace Assignment4
-{   /// <summary>
-/// define the flight information
-/// </summary>
+{   
+    /// <summary>
+    /// Define the flight information
+    /// </summary>
     public class Flight
     {
         private Route route;

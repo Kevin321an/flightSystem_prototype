@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Assignment4
 {
+    /// <summary>
+    /// The Program class
+    /// </summary>
     class Program
     {
-      
-
             /// <summary>
             /// The main thread of this program. In this example, this part is use to get some result to test the code
             /// </summary>

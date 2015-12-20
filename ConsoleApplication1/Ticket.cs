@@ -5,6 +5,9 @@ using System.Text;
 
 namespace Assignment4
 {
+    /// <summary>
+    /// The Ticket class
+    /// </summary>
     public class Ticket
     {
         private bool insurance;

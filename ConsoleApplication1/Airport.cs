@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 
 namespace Assignment4
-    {/// <summary>
-     /// The Aircraftclass
-     /// </summary>   
+{
+    /// <summary>
+    /// The Airport class
+    /// </summary>   
     public class Airport
     {
         private string location;
@@ -41,9 +42,8 @@ namespace Assignment4
             
         }
         /// <summary>
-        /// perporty of location
+        /// Location property 
         /// </summary>
-
         public string Location
         {
             get { return location; }
